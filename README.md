@@ -7,6 +7,7 @@
 練習用追加
 
 [下層ディレクトリのREADMEへのリンク](/helloworld)
+[下層ディレクトリのREADMEへのリンク](/helloworld2)
 
 ## インストール手順
 
